@@ -1,5 +1,5 @@
 
-# RecyclerView Practice - Android App
+# RecyclerView Practice 
 
 This Android project demonstrates how to use a `RecyclerView` to display a list of custom items using a custom `Adapter` and `ViewHolder` pattern. The app shows a list of contacts, each with an image, name, and phone number.
 
